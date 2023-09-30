@@ -1,6 +1,6 @@
 --- 
 title: "Power Circuits for Medical Devices"
-layout: page 
+layout: single 
 permalink: /research/power/ 
 ---
 

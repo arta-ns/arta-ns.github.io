@@ -1,6 +1,6 @@
 --- 
 title: "Data Structures for High-Speed Networks"
-layout: page 
+layout: single 
 permalink: /research/algorithmics/ 
 ---
 ![](/assets/images/algorithmics-top2.png)

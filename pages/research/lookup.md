@@ -1,6 +1,6 @@
 --- 
 title: "IP Route Lookup"
-layout: page 
+layout: single 
 permalink: /research/lookup/ 
 ---
 ![](/assets/images/lookup-top.png)

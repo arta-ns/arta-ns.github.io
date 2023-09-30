@@ -1,12 +1,9 @@
 ---
 title: "Previous Research at NYU Tandon"
-layout: page
+layout: single
 author_profile: true
 permalink: /research-NYU/
 ---
-
-<!-- ![](/assets/images/manhattan_nyit_2014.jpg) -->
-
 
 
 *   **Low-power VLSI circuits and embedded systems for implantable medical devices**  

@@ -1,6 +1,6 @@
 --- 
 title: "Epileptic Seizure Detection and Prevention"
-layout: page 
+layout: single 
 permalink: /research/seizure/ 
 ---
 

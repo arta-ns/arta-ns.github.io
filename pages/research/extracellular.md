@@ -1,6 +1,6 @@
 --- 
 title: "Spike Detection for Extracellular Recordings"
-layout: page 
+layout: single 
 permalink: /research/extracellular/ 
 ---
 

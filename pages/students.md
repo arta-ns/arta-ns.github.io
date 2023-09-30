@@ -1,6 +1,6 @@
 --- 
 title: "Students"
-layout: page 
+layout: single 
 permalink: /students/ 
 ---
 

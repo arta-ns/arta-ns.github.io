@@ -1,6 +1,6 @@
 --- 
 title: "Signal-Specific VLSI Circuits for Medical Devices"
-layout: page 
+layout: single 
 permalink: /research/circuits/ 
 ---
 

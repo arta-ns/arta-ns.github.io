@@ -1,4 +1,8 @@
 main:
+  - title: "Home"
+    url: /
+  - title: "Artan Lab (CNS)"
+    url: https://nyit-cns.github.io
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -7,10 +11,8 @@ main:
     url: /teaching/
   - title: "Service"
     url: /service/
-  - title: "Students"
-    url: /students/
+  # - title: "Students"
+  #   url: /students/
   - title: "Contact"
     url: /contact/
-  - title: "CNS Lab"
-    url: https://nyit-cns.github.io
     

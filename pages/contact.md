@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-layout: page
+title: "Contact Information"
+layout: single
 author_profile: true
 permalink: /contact/
 ---
 
-# Contact Information
+![](/assets/images/manhattan_nyit_2014.jpg)
+
+
 __N. Sertac Artan__<br>
 _Associate Professor_<br>
 Department of Electrical and Computer Engineering<br>

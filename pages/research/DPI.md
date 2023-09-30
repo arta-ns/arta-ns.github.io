@@ -1,6 +1,6 @@
 --- 
 title: "Deep packet inspection (DPI) for high-speed network intrusion detection and prevention"
-layout: page 
+layout: single 
 permalink: /research/DPI/ 
 ---
 

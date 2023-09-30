@@ -1,6 +1,6 @@
 --- 
 title: "Service"
-layout: page 
+layout: single 
 permalink: /service/ 
 ---
 

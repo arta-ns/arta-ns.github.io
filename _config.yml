@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: N. Sertac Artan's Homepage
+title:  
 name: N. Sertac Artan
 email: nartan@nyit.edu 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,6 +30,26 @@ repository: arta-ns/arta-ns.github.io
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: "/assets/images/nyit-logo.png"
+author:
+  name: "N. Sertac Artan"
+  avatar: "/assets/images/sertac.jpg"
+  # bio: "" # Note: Markdown is allowed
+  location: "New York, NY"
+  links:
+    - label: "Artan Lab (CNS)"
+      icon: "fas fa-fw fa-link"
+      url: "https://nyit-cns.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/arta-ns"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/n-sertac-artan-bb747547"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/mmistakes"
+
+
 ## Minima Theme Config
 # theme: minima
 # github_username: arta-ns

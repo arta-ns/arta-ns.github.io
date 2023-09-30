@@ -1,6 +1,6 @@
 --- 
 title: "Neurological Signal Compression"
-layout: page 
+layout: single 
 permalink: /research/compression/ 
 ---
 

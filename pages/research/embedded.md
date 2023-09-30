@@ -1,6 +1,6 @@
 --- 
 title: "Discrete Prototypes"
-layout: page 
+layout: single 
 permalink: /research/embedded/ 
 ---
 
