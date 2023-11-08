@@ -3,16 +3,16 @@ main:
     url: /
   - title: "Artan Lab (CNS)"
     url: https://nyit-cns.github.io
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
+  # - title: "Research"
+  #   url: /research/
+  # - title: "Publications"
+  #   url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "Service"
     url: /service/
-  # - title: "Students"
-  #   url: /students/
+  - title: "Positions"
+    url: /positions/
   - title: "Contact"
     url: /contact/
     
