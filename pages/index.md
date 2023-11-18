@@ -16,7 +16,7 @@ _Email:_ nartan at nyit.edu <br>
 
 N. Sertac Artan is an Associate Professor of Electrical and Computer Engineering at New York Institute of Technology (NYIT) College of Engineering and Computing Sciences. He got his Ph.D. degree in Electrical Engineering from New York University (formerly Polytechnic University).  Before joining NYIT, Dr. Artan was on the faculty of the New York University School of Engineering. He also worked as an ASIC (Application Specific Integrated Circuit) Design Engineer and designed integrated circuits for commercial, academic and military applications.  Dr. Artan is the co-chair of the National Workshop for REU Research in Networking and Systems (REUNS) since 2021. He also served in the organizing committees of the ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS), IEEE Sarnoff Symposium, and ACM Conference on Security and Privacy in Wireless and Mobile Networks. His current research interests include network security, circuits and systems for medical devices, and biomedical signal processing.
 
-**Fully funded Ph.D. position [available](/positions/) for Fall 2024!**
+**Fully funded Ph.D. position [available](/positions/) for Spring/Fall 2024!**
 
 ## Current Research Areas
 
