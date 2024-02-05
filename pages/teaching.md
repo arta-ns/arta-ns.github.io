@@ -8,9 +8,10 @@ permalink: /teaching/
 
 Class materials are on [Canvas](http://my.nyit.edu).  
 
-### Spring 2024 (Tentative)
+### Spring 2024 
 *   EENG 661: Introduction to VLSI Design
 *   EENG 483: Introduction to VLSI Design
+*   EENG 508: Electrical Circuits II 
 *   EENG 281: Electrical Circuits II 
 *   EENG 491: Senior Design Project II
 
