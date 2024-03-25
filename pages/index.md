@@ -27,10 +27,11 @@ N. Sertac Artan is an Associate Professor of Electrical and Computer Engineering
 
 ## Recent Publications 
 (Full up-to-date list at [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=R40hLTYAAAAJ&pagesize=80&view_op=list_works))
-* J. Roy, S. Suresh, M. Elsayed, R. Rocca, Z. Dong, H. Gu, and N. S. Artan. “Investigating the Effect of Machine-Translation on Automated Classification of Toxic Comments,” The Eighth National Workshop for REU Research in Networking and Systems, Denver, CO, Oct. 21, 2022 (Best Paper Runner-up Award).
-* S. Senbel, S. Sharma, M. S. Raval, C. Taber, J. Nolan, N. S. Artan, D. Ezzeddine, and T. Kaya. “Impact of Sleep and Training on Game Performance and Injury in Division-1 Women’s Basketball amidst the Pandemic,” IEEE Access, Volume 5, Jan. 2022.
-* Kunyu Sun, N. Sertac Artan, and Ziqian Dong, “CALC: Calibration for Ambient Light Correction in Screen-to-Camera Visible Light Communication,” Results in Optics, Volume 5, Dec. 2021.
-
+* Taber, C.B., Sharma, S., Raval, M.S., Senbel, S., Keefe, A., Shah, J., Patterson, E., Nolan, J., Sertac Artan, N. and Kaya, T., 2024. A holistic approach to performance prediction in collegiate athletics: player, team, and conference perspectives. _Scientific Reports_, _14_(1), p.1162. [[DOI](https://doi.org/10.1038/s41598-024-51658-8)]
+- Artan, N.S., 2024. An Overview of Functional Near-Infrared Spectroscopy and Explainable Artificial Intelligence in fNIRS. Explainable AI in Healthcare, pp.50-67. [[DOI](https://doi.org/10.1201/9781003333425)]
+- Roy, J., Suresh, S., Elsayed, M., Rocca, R., Dong, Z., Gu, H. and Artan, N.S., 2022, October. Investigating the Effect of Machine-Translation on Automated Classification of Toxic Comments. In 2022 IEEE 19th International Conference on Mobile Ad Hoc and Smart Systems (MASS) (pp. 764-769). [[DOI](https://doi-org.arktos.nyit.edu/10.1109/MASS56207.2022.00120)]
+* Senbel, S., Sharma, S., Raval, M.S., Taber, C., Nolan, J., Artan, N.S., Ezzeddine, D. and Kaya, T., 2022. Impact of sleep and training on game performance and injury in division-1 women’s Basketball Amidst the Pandemic. _IEEE Access_, _10_, pp.15516-15527. [[DOI](https://doi-org.arktos.nyit.edu/10.1109/ACCESS.2022.3145368)]
+* Sun, K., Artan, N.S. and Dong, Z., 2021. CALC: calibration for ambient light correction in screen-to-camera visible light communication. _Results in Optics_, _5_, p.100122. [[DOI](https://doi.org/10.1016/j.rio.2021.100122)]
 ## Spring 2024 
 *   EENG 661: Introduction to VLSI Design
 *   EENG 483: Introduction to VLSI Design
