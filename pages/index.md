@@ -31,11 +31,9 @@ N. Sertac Artan is an Associate Professor of Electrical and Computer Engineering
 * S. Senbel, S. Sharma, M. S. Raval, C. Taber, J. Nolan, N. S. Artan, D. Ezzeddine, and T. Kaya. “Impact of Sleep and Training on Game Performance and Injury in Division-1 Women’s Basketball amidst the Pandemic,” IEEE Access, Volume 5, Jan. 2022.
 * Kunyu Sun, N. Sertac Artan, and Ziqian Dong, “CALC: Calibration for Ambient Light Correction in Screen-to-Camera Visible Light Communication,” Results in Optics, Volume 5, Dec. 2021.
 
-## Teaching (Fall 2023)
-*   EENG 830: RF Electronic Circuits
-*   EENG 221: Computational and Engineering Tools
-*   EENG 212: Electrical Circuits I and Engineering Tools
-*   EENG 212Lab: Electrical Circuits I and Engineering Tools Lab
-*   EENG 211: Electrical Circuits I
-*   EENG 489: Senior Design Project I
-
+## Spring 2024 
+*   EENG 661: Introduction to VLSI Design
+*   EENG 483: Introduction to VLSI Design
+*   EENG 508: Electrical Circuits II 
+*   EENG 281: Electrical Circuits II 
+*   EENG 491: Senior Design Project II
