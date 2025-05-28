@@ -11,9 +11,7 @@ Cadence University Program
 
 ![](/assets/images/Academic_Network_Red.png) These groups and labs are using the Cadence Products
 
-*   [Circuits, Networks, and Systems (CNS) Lab (N.S. Artan Group)](http://iris.nyit.edu/~nartan/research.html)
-*   [Integrated Medical Systems (IMS) Laboratory (A. Farajidavar Group)](http://www.nyit.edu/engineering/electrical_and_computer_engineering/ims)
-
+*   [Circuits, Networks, and Systems (CNS) Lab (N.S. Artan Group)](https://www.nyit.edu/academics/engineering-and-computing-sciences/electrical-and-computer-engineering/research-groups-and-labs/circuits-networks-and-systems-laboratory/)
   
 The Cadence products listed below will be used by all the groups and labs listed:
 
@@ -29,4 +27,4 @@ _**DISCLAIMER:** Information is provided 'as is' without warranty or guarantee o
 **Cadence is a registered trademark of Cadence Design Systems, Inc.,  
 2655 Seely Avenue, San Jose, CA 95134.**  
   
-**Last updated** on June 10, 2021 by [N. Sertac Artan](mailto:nartan@nyit.edu)_._
+**Last updated** on May 28, 2025 by [N. Sertac Artan](mailto:nartan@nyit.edu)_._
